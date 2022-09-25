@@ -8,6 +8,7 @@ A flight widget showing departure times created using vanilla javascript
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
+  -[Installation](#Installation)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -31,6 +32,13 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Vanilla Javascript
+
+###Installation
+- Clone the project with the following command: `https://github.com/Clinton-dev/rotating-flight-widget.git`
+- Switch to the directory with project using `cd rotating-flight-widget`
+- Install dependancies by typing the following command in your terminal `npm install`
+- Run the project `npm run dev`
+-Open browser and go to the following url `http://localhost:5173/` 
 
 
 ## Acknowledgments
