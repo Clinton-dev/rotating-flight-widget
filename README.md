@@ -35,6 +35,6 @@ Users should be able to:
 
 ## Acknowledgments
 
--Code with Ania Kubow [youtube] (https://youtu.be/xs5aOs-Wpxw)
+-Code with Ania Kubow [youtube](https://youtu.be/xs5aOs-Wpxw)
 
 
