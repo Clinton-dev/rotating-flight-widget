@@ -33,7 +33,7 @@ Users should be able to:
 - Flexbox
 - Vanilla Javascript
 
-###Installation
+### Installation
 - Clone the project with the following command: `https://github.com/Clinton-dev/rotating-flight-widget.git`
 - Switch to the directory with project using `cd rotating-flight-widget`
 - Install dependancies by typing the following command in your terminal `npm install`
