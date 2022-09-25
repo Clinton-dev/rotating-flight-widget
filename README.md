@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot.png)
 
 ### Links
 - Live Site URL: [URL here](https://6330b18297f4e60008959e29--ephemeral-phoenix-7eb38f.netlify.app/)
