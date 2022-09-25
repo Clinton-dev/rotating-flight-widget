@@ -38,7 +38,7 @@ Users should be able to:
 - Switch to the directory with project using `cd rotating-flight-widget`
 - Install dependancies by typing the following command in your terminal `npm install`
 - Run the project `npm run dev`
--Open browser and go to the following url `http://localhost:5173/` 
+- Open browser and go to the following url `http://localhost:5173/` 
 
 
 ## Acknowledgments
