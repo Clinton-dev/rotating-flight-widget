@@ -98,7 +98,7 @@ function generateTime() {
     displayHour = "0" + hour;
   }
 
-  return displayHour + ":" + generateRandomNumber() + ":" + generateRandomNumber();
+  return displayHour + ":" + generateRandomNumber(5) + ":" + generateRandomNumber();
 }
 
 function shuffleUP() {
@@ -107,11 +107,11 @@ function shuffleUP() {
     time: generateTime(),
     destination: destination[Math.floor(Math.random() * destination.length)],
     flight: generateRandomLetter() + generateRandomLetter() + " " + generateRandomNumber(),
-    gate: generateRandomLetter() + " " + generateRandomNumber(),
+    gate: generateRandomLetter() + " " + generateRandomNumber() + generateRandomNumber(),
     remarks: remarks[Math.floor(Math.random() * remarks.length)]
   })
   tableBody.textContent = ""
   populateTable()
 }
 
-setInterval(shuffleUP, 5000)
+setInterval(shuffleUP, 3500)
